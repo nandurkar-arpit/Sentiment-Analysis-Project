@@ -46,3 +46,6 @@ Example: `I am so happy today, everything went great!` → **Joy**
 
 ## Tech Stack
 Python, scikit-learn, NLTK, pandas, Streamlit
+
+## 🚀 Live demo
+[Try the Emotion Detector App] (https://ml-sentiment-analysis-classifier.streamlit.app) 
